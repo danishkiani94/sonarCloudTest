@@ -5,7 +5,8 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   let test =
   var
-  qeqweqwewqe ;
+  qeqweqwewqe 
+  qeqweqwewqe
   qeqweqwewqe
   return (
     <View style={styles.container}>
