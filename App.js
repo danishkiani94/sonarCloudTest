@@ -15,7 +15,7 @@ export default function App() {
   qeqweqwewqe
   return (
     <View style={styles.container}>
-      <Text>Test application sonar</Text>
+      <Text>Test application sonar test</Text>
       wqweqweqe
       <StatusBar style="auto" />
     </View>
