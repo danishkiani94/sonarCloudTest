@@ -3,7 +3,20 @@ import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
-  let test = 123;
+  let test1 = 123;
+
+  const test = (test) => {
+
+    if (test) {
+
+      console.log('Inside if');
+
+    } else {
+      console.log('Inside else');
+    }
+  }
+
+
   return (
     <View style={styles.container}>
       <Text>Test application sonar test</Text>
