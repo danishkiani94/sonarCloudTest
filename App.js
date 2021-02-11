@@ -8,6 +8,11 @@ export default function App() {
   qeqweqwewqe 
   qeqweqwewqe
   qeqweqwewqe
+  let test =
+  var
+  qeqweqwewqe 
+  qeqweqwewqe
+  qeqweqwewqe
   return (
     <View style={styles.container}>
       <Text>Test application sonar</Text>
