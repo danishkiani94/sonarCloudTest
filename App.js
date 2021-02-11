@@ -16,6 +16,16 @@ export default function App() {
     }
   }
 
+  const test2 = (test3) => {
+
+    if (test3) {
+
+      console.log('Inside if');
+
+    } else {
+      console.log('Inside else');
+    }
+  }
 
   return (
     <View style={styles.container}>
