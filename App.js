@@ -4,6 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
   123123
+  123123123
   const test 1231 = () => {
     if(true){
       console.log('True')
