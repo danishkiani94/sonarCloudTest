@@ -17,6 +17,13 @@ export default function App() {
       console.log('flase')
     }
   }
+  const test = () => {
+    if(true){
+      console.log('True')
+    }else{
+      console.log('flase')
+    }
+  }
   let test =
   var
   qeqweqwewqe 
