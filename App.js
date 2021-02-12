@@ -27,6 +27,10 @@ export default function App() {
   qeqweqwewqe 
   qeqweqwewqe
   qeqweqwewqe
+  var
+  qeqweqwewqe 
+  qeqweqwewqe
+  qeqweqwewqe
   return (
     <View style={styles.container}>
       <Text>Test application sonar test</Text>
