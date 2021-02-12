@@ -3,7 +3,8 @@ import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
-  const test = () => {
+  123123
+  const test 1231 = () => {
     if(true){
       console.log('True')
     }else{
