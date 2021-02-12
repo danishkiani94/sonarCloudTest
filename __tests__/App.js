@@ -8,4 +8,5 @@ import renderer from "react-test-renderer";
 it("renders correctly", () => {
   renderer.create(<App />);
   console.log("Testtttsss");
+  console.log("Testtttsss");
 });
