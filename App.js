@@ -3,6 +3,34 @@ import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
+  const test = () => {
+    if(true){
+      console.log('True')
+    }else{
+      console.log('false')
+    }
+  }
+  const test = () => {
+    if(true){
+      console.log('True')
+    }else{
+      console.log('flase')
+    }
+  }
+  const test = () => {
+    if(true){
+      console.log('True')
+    }else{
+      console.log('flase')
+    }
+  }
+  const test = () => {
+    if(true){
+      console.log('True')
+    }else{
+      console.log('flase')
+    }
+  }
   let test =
   var
   qeqweqwewqe 
@@ -19,6 +47,10 @@ export default function App() {
   qeqweqwewqe
   qeqweqwewqe
   let test =
+  var
+  qeqweqwewqe 
+  qeqweqwewqe
+  qeqweqwewqe
   var
   qeqweqwewqe 
   qeqweqwewqe
